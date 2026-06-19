@@ -2,7 +2,7 @@
 
 A sleek, `btop`-style terminal user interface (TUI) for monitoring your active [Google AI Pro](https://antigravity.google) quota usage directly from your local Antigravity CLI daemon.
 
-![Screenshot](screenshot.png) *(Add your own screenshot here)*
+![Screenshot](example.png) *(Add your own screenshot here)*
 
 ## Features
 
